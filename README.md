@@ -2,18 +2,7 @@
 
 Official website for **Manglan Labs**, an open-weights AI research lab based in India dedicated to building accessible machine learning models, training tools, and high-performance open-source frameworks.
 
-![Manglan Labs Design Style](https://github.com/old-droid.png)
-
-## Overview
-
-Manglan Labs builds open-weights AI models and tools designed for high performance on standard hardware. This repository contains the source code for the official Manglan Labs landing page, designed with a sleek, high-contrast monochrome editorial style, subtle micro-interactions, responsive typography, and scroll-triggered visual reveals.
-
-### Key Features
-
-- **Monochrome Editorial Visual System**: Pure high-contrast typography hierarchy, custom bar mark SVG/CSS logotype, and acid accent highlighting (`#d7ff42`).
-- **XTRAIN Flagship Section**: Highlights the Numba-powered, CPU-first, pure Python machine learning training framework without C extension requirements.
-- **Interactive Terminal Emulator**: Renders real-time installation commands and representative epoch-by-epoch model training output.
-- **Responsive Layout**: Designed mobile-first for touch devices, tablets, laptops, and ultra-wide desktop monitors.
+-------.
 - **Restrained Motion Design**: Scroll progress bar, fluid scroll cue, cursor magnet effect on CTAs, and IntersectionObserver scroll reveals.
 - **Accessibility & Performance**: Native HTML5 semantic structure, reduced-motion media query support, lightweight CSS/JS footprint, zero external heavy framework dependencies.
 
